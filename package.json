@@ -21,6 +21,7 @@
   "homepage": "https://github.com/sharni595/food-festival#readme",
   "devDependencies": {
     "webpack": "^5.44.0",
+    "webpack-bundle-analyzer": "^4.4.2",
     "webpack-cli": "^4.7.2"
   },
   "dependencies": {
